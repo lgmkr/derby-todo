@@ -1,0 +1,15 @@
+{
+  "name": "derby-todo",
+  "version": "1.0.0",
+  "description": "my test derby project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lgmkr",
+  "license": "ISC",
+  "dependencies": {
+    "derby": "0.6.0-alpha23",
+    "derby-starter": "0.2.0"
+  }
+}
